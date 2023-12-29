@@ -1,0 +1,2285 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Bridge - University & School Education Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.2",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/404\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Form 2",
+            "screenshot": "screenshots\/newsletter-form-2.jpg",
+            "source": "templates\/newsletter-form-2.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/newsletter-form-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Newsletter Form 1",
+            "screenshot": "screenshots\/newsletter-form-1.jpg",
+            "source": "templates\/newsletter-form-1.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/newsletter-form-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/single-blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form",
+            "screenshot": "screenshots\/contact-form.jpg",
+            "source": "templates\/contact-form.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/contact-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Carrer",
+            "screenshot": "screenshots\/carrer.jpg",
+            "source": "templates\/carrer.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/carrer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Testimonials",
+            "screenshot": "screenshots\/testimonials.jpg",
+            "source": "templates\/testimonials.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/testimonials\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQs",
+            "screenshot": "screenshots\/faqs.jpg",
+            "source": "templates\/faqs.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/faqs\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Professionals",
+            "screenshot": "screenshots\/professionals.jpg",
+            "source": "templates\/professionals.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/professionals\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faculty",
+            "screenshot": "screenshots\/faculty.jpg",
+            "source": "templates\/faculty.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/faculty\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses Detail",
+            "screenshot": "screenshots\/courses-detail.jpg",
+            "source": "templates\/courses-detail.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/courses-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Question Form",
+            "screenshot": "screenshots\/question-form.jpg",
+            "source": "templates\/question-form.json",
+            "preview_url": "https:\/\/kfkit.rometheme.pro\/bridge\/template-kit\/question-form\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.15.3",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.9.0",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "RomethemeKit For Elementor",
+            "version": "1.3.2",
+            "file": "rometheme-for-elementor\/RomeTheme.php",
+            "author": "Rometheme"
+        },
+        {
+            "name": "RomethemeForm",
+            "version": "1.1.1",
+            "file": "romethemeform\/rometheme-form.php",
+            "author": "Rometheme"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Logo.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Logo-800x179.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 19067,
+            "dimensions": [
+                1080,
+                242
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-1.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-1-800x1011.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/carrer.json",
+                    "name": "Carrer"
+                },
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                },
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/courses-detail.json",
+                    "name": "Courses Detail"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 67390,
+            "dimensions": [
+                1372,
+                1734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hand-drawn-arrows-CVQ4UCC"
+        },
+        {
+            "filename": "9KFZP5N.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/9KFZP5N.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 201414,
+            "dimensions": [
+                600,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/positive-arab-guy-student-with-backpack-and-books-9KFZP5N"
+        },
+        {
+            "filename": "iMAGES.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/iMAGES-800x191.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 247865,
+            "dimensions": [
+                900,
+                215
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "attractive-young-bearded-guy-in-checkered-shirt-DYCEJ32.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/attractive-young-bearded-guy-in-checkered-shirt-DYCEJ32.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 9590,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DYCEJ32"
+        },
+        {
+            "filename": "UWKJNH4.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/UWKJNH4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 182155,
+            "dimensions": [
+                600,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-woman-pointing-at-empty-space-UWKJNH4"
+        },
+        {
+            "filename": "D6LY3Z2.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/D6LY3Z2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 250942,
+            "dimensions": [
+                600,
+                1100
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cute-career-consultant-standing-over-blue-backgrou-D6LY3Z2"
+        },
+        {
+            "filename": "A-2.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 39609,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hand-drawn-arrows-CVQ4UCC"
+        },
+        {
+            "filename": "Client-6.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Client-6-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 46499,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-5.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Client-5-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 23206,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Client-4.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Client-4-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 19982,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-4.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-4-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 22661,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-3.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-3-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 57263,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-2-1.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-2-1-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 45479,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-5.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-5-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 38341,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-1-1.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-1-1-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 26112,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Bg-Graphic.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Bg-Graphic-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 10019,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "7Q65CWN.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/7Q65CWN-800x739.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 708833,
+            "dimensions": [
+                958,
+                885
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7Q65CWN"
+        },
+        {
+            "filename": "I-15.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-15.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9240,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-14.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-14.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9959,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-13.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-13.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6080,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-16.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-16.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4800,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "FT3CK5H.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/FT3CK5H-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 188731,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/selfie-of-a-group-of-students-looking-at-the-camer-FT3CK5H"
+        },
+        {
+            "filename": "I-1.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 15985,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-2.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-2.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 15523,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-3.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-3.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 9035,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-4.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-4.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 5378,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-5.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-5.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 5789,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-6.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-6.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 11469,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-7.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-7.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 7123,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-8.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-8.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 15346,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "G-1.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/G-1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 17592,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "QXWUGYS.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/QXWUGYS.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/carrer.json",
+                    "name": "Carrer"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 646863,
+            "dimensions": [
+                472,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-smiling-student-or-intern-in-eyeglasses-stan-QXWUGYS"
+        },
+        {
+            "filename": "TQ8BGYY.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/TQ8BGYY-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 139225,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teacher-with-group-of-mature-adult-students-in-cla-TQ8BGYY"
+        },
+        {
+            "filename": "I-9.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-9.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 15305,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-11.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-11.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 7855,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-12.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-12.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 6473,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "I-10.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/I-10.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 13992,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "SR-1.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-1-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 151240,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/university-students-studying-with-teacher-DVBPU45"
+        },
+        {
+            "filename": "RHQPHVZ.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/RHQPHVZ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 195837,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-lecturer-teaching-RHQPHVZ"
+        },
+        {
+            "filename": "QKWUHEC.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/QKWUHEC-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/courses-detail.json",
+                    "name": "Courses Detail"
+                }
+            ],
+            "filesize": 168302,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-teacher-pointing-with-finger-at-mathematica-QKWUHEC"
+        },
+        {
+            "filename": "BJHRSRW.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/BJHRSRW-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                },
+                {
+                    "source": "templates\/courses-detail.json",
+                    "name": "Courses Detail"
+                }
+            ],
+            "filesize": 250426,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-male-university-or-college-tutor-outdo-BJHRSRW"
+        },
+        {
+            "filename": "6JX3KTH.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/6JX3KTH-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 159527,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/students-listening-to-art-lecture-6JX3KTH"
+        },
+        {
+            "filename": "4ZLMSPZ.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/4ZLMSPZ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 173743,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/geometry-teacher-stands-at-the-blackboard-and-draw-4ZLMSPZ"
+        },
+        {
+            "filename": "DNUL3FY.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/DNUL3FY-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 164015,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-grey-hair-professor-standing-in-lecture-ro-DNUL3FY"
+        },
+        {
+            "filename": "6GL4YWC.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/6GL4YWC-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 193432,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/university-lecturer-in-empty-class-6GL4YWC"
+        },
+        {
+            "filename": "LGG7L7W.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/LGG7L7W-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 92966,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-male-teacher-used-white-chalk-to-write-on-the--LGG7L7W"
+        },
+        {
+            "filename": "JBVWCX5.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/JBVWCX5-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 240746,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-hispanic-woman-studying-in-academic-universi-JBVWCX5"
+        },
+        {
+            "filename": "D7PGHS4.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/D7PGHS4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 212982,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-caucasian-young-woman-student-girl-teenag-D7PGHS4"
+        },
+        {
+            "filename": "DXCYQ7D.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/DXCYQ7D-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 117761,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-handsome-speaker-in-glasses-talking-and-ge-DXCYQ7D"
+        },
+        {
+            "filename": "6XJ2YBQ.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/6XJ2YBQ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 167032,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-mature-caucasian-businesswoman-copywrit-6XJ2YBQ"
+        },
+        {
+            "filename": "ZTUVEZ61.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/ZTUVEZ61-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/courses-detail.json",
+                    "name": "Courses Detail"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 174164,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/study-team-in-college-ZTUVEZ6"
+        },
+        {
+            "filename": "ATW2BM9.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/ATW2BM9-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 135598,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-admin\/admin.php?page=envato-export-template-kit&step=4"
+        },
+        {
+            "filename": "PAXYG75.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/PAXYG75-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 193386,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/college-students-posing-outdoors-PAXYG75"
+        },
+        {
+            "filename": "W8U4K5K.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/W8U4K5K-800x450.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 134717,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/muslim-university-student-raising-her-hand-to-answ-W8U4K5K"
+        },
+        {
+            "filename": "PHXD8TK.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/PHXD8TK-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                }
+            ],
+            "filesize": 149289,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-teacher-working-with-college-students-in-li-PHXD8TK"
+        },
+        {
+            "filename": "P2A39TB.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/P2A39TB-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/carrer.json",
+                    "name": "Carrer"
+                }
+            ],
+            "filesize": 164384,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-mature-college-students-collaborating-on--P2A39TB"
+        },
+        {
+            "filename": "Bg-Graphic-2.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Bg-Graphic-2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/carrer.json",
+                    "name": "Carrer"
+                }
+            ],
+            "filesize": 17592,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Arrow-4.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/Arrow-4-800x1011.png",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 67390,
+            "dimensions": [
+                1372,
+                1734
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/hand-drawn-arrows-CVQ4UCC"
+        },
+        {
+            "filename": "PLMQ3CW.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/PLMQ3CW-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/testimonials.json",
+                    "name": "Testimonials"
+                }
+            ],
+            "filesize": 201799,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/fashion-students-working-as-a-team-at-the-college-PLMQ3CW"
+        },
+        {
+            "filename": "SR-36.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-36-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faqs.json",
+                    "name": "FAQs"
+                }
+            ],
+            "filesize": 232558,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-students-in-college-WRXTCGN"
+        },
+        {
+            "filename": "SR-2.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-2-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 159856,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-student-group-outside-college-building-PFHN5YZ"
+        },
+        {
+            "filename": "SR-5.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-5-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 164015,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-grey-hair-professor-standing-in-lecture-ro-DNUL3FY"
+        },
+        {
+            "filename": "SR-7.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-7-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 193432,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/university-lecturer-in-empty-class-6GL4YWC"
+        },
+        {
+            "filename": "SR-6.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-6-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 92966,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/the-male-teacher-used-white-chalk-to-write-on-the--LGG7L7W"
+        },
+        {
+            "filename": "SR-3.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 142239,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-female-university-professor-smiling-and--NW9KG32"
+        },
+        {
+            "filename": "SR-4.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-4-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 179010,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-caucasian-man-in-office-looking-at-camer-627SQTE"
+        },
+        {
+            "filename": "SR-9.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-9-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 114440,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-professional-leader-asian-business-woman-wea-Z9SNU4G"
+        },
+        {
+            "filename": "SR-8.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-8-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 161747,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-man-looking-to-camera-in-front-of-a-blackboa-P5NG2HC"
+        },
+        {
+            "filename": "SR-10.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-10-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 150178,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-successful-teacher-of-economics-standing-by--BJR7CW5"
+        },
+        {
+            "filename": "SR-14.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-14-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 240746,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-hispanic-woman-studying-in-academic-universi-JBVWCX5"
+        },
+        {
+            "filename": "SR-11.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-11-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 212982,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-caucasian-young-woman-student-girl-teenag-D7PGHS4"
+        },
+        {
+            "filename": "SR-12.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-12-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 117761,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-handsome-speaker-in-glasses-talking-and-ge-DXCYQ7D"
+        },
+        {
+            "filename": "SR-13.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-13-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/professionals.json",
+                    "name": "Professionals"
+                }
+            ],
+            "filesize": 167032,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-mature-caucasian-businesswoman-copywrit-6XJ2YBQ"
+        },
+        {
+            "filename": "SR-15.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-15-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 202661,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-admin\/admin.php?page=envato-export-template-kit&step=4"
+        },
+        {
+            "filename": "PFYUGDT.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/PFYUGDT-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses-detail.json",
+                    "name": "Courses Detail"
+                }
+            ],
+            "filesize": 182425,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/student-group-socializing-outside-college-building-PFYUGDT"
+        },
+        {
+            "filename": "SR-16.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-16-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 252112,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/students-studying-in-college-library-PN59YK9"
+        },
+        {
+            "filename": "SR-22.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-22-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 151240,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/university-students-studying-with-teacher-DVBPU45"
+        },
+        {
+            "filename": "SR-23.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-23-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 195837,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/a-lecturer-teaching-RHQPHVZ"
+        },
+        {
+            "filename": "SR-17.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-17-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 168302,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/female-teacher-pointing-with-finger-at-mathematica-QKWUHEC"
+        },
+        {
+            "filename": "SR-25.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-25-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 250426,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-male-university-or-college-tutor-outdo-BJHRSRW"
+        },
+        {
+            "filename": "SR-21.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-21-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 159527,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/students-listening-to-art-lecture-6JX3KTH"
+        },
+        {
+            "filename": "SR-24.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-24-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 173743,
+            "dimensions": [
+                900,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/geometry-teacher-stands-at-the-blackboard-and-draw-4ZLMSPZ"
+        },
+        {
+            "filename": "SR-18.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-18-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 180715,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-happy-multinational-students-joyfully-foo-SWD9UR3"
+        },
+        {
+            "filename": "SR-19.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-19-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 170364,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-lecturer-teaching-students-using-laptops-in-h-DQQM86T"
+        },
+        {
+            "filename": "SR-20.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-20-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 215031,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-students-in-computer-lab-CUPV4NX"
+        },
+        {
+            "filename": "SR-26.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-26-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 145412,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-female-college-students-building-machine-in-sc-3EA8T9C"
+        },
+        {
+            "filename": "SR-27.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-27-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 10019,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "SR-28.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-28-800x739.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 708833,
+            "dimensions": [
+                958,
+                885
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/attractive-student-girl-isolated-on-white-backgrou-7Q65CWN"
+        },
+        {
+            "filename": "A-8.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-8-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 46499,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-7.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-7-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 23206,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "A-6.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/A-6-800x288.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 19982,
+            "dimensions": [
+                900,
+                324
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "SR-29.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-29.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 646863,
+            "dimensions": [
+                472,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collections\/4PKZ97WUFY\/pg-2"
+        },
+        {
+            "filename": "SR-30.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-30-800x375.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 139225,
+            "dimensions": [
+                1920,
+                900
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/teacher-with-group-of-mature-adult-students-in-cla-TQ8BGYY"
+        },
+        {
+            "filename": "SR-31.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-31.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 15305,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "SR-33.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-33.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 7855,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "SR-34.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-34.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6473,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "SR-32.png",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-32.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 13992,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-CSBJ4PJ"
+        },
+        {
+            "filename": "SR-35.jpg",
+            "thumbnail_url": "https:\/\/kfkit.rometheme.pro\/bridge\/wp-content\/uploads\/sites\/60\/2023\/07\/SR-35-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 174164,
+            "dimensions": [
+                900,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/study-team-in-college-ZTUVEZ6"
+        }
+    ]
+}

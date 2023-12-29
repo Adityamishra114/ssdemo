@@ -1,0 +1,920 @@
+{
+    "version": "0.4",
+    "title": "Boston &#8211; Graphic Tabs Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "28695d4",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1250,
+                    "sizes": []
+                },
+                "content_position": "middle",
+                "structure": "20",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4783cc81",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "53249aa8",
+                            "settings": {
+                                "iq_column_chart_card_show": "",
+                                "iq_column_is_card_heading_show": "",
+                                "iq_column_chart_heading": "",
+                                "iq_column_chart_content": "",
+                                "iq_column_chart_no_data_text": "No Data Available",
+                                "iq_column_category_list": [
+                                    {
+                                        "iq_column_chart_category": "Jan",
+                                        "_id": "62d77d1"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "Feb",
+                                        "_id": "edbc3c3"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "Mar",
+                                        "_id": "3ab4676"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "Apr",
+                                        "_id": "66ddbb6"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "May",
+                                        "_id": "6f4ba66"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "Jun",
+                                        "_id": "decec7a"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "July",
+                                        "_id": "f28be48"
+                                    },
+                                    {
+                                        "iq_column_chart_category": "Aug",
+                                        "_id": "cdc187c"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_0": "Research",
+                                "iq_column_value_list_4_1_0": [
+                                    {
+                                        "iq_column_chart_value_4_0": 147,
+                                        "_id": "e6a017b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 194,
+                                        "_id": "50e7a0f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 150,
+                                        "_id": "d54f8ac"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 186,
+                                        "_id": "934b2e2"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 173,
+                                        "_id": "cecbf11"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 186,
+                                        "_id": "49ad4c2"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 107,
+                                        "_id": "8e32fa1"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 167,
+                                        "_id": "e983465"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_0": [
+                                    {
+                                        "iq_column_chart_value_4_0": 148,
+                                        "_id": "d2c6db6"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": -127,
+                                        "_id": "6f4f34a"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 76,
+                                        "_id": "a0d5303"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 152,
+                                        "_id": "150b6db"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": -156,
+                                        "_id": "95ce7c4"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 157,
+                                        "_id": "3526076"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 55,
+                                        "_id": "d635d2e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_0": 81,
+                                        "_id": "2790bf8"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_1": "Element 2",
+                                "iq_column_value_list_4_1_1": [
+                                    {
+                                        "iq_column_chart_value_4_1": 196,
+                                        "_id": "2aa88fb"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 149,
+                                        "_id": "4a770c8"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 104,
+                                        "_id": "a58fe38"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 194,
+                                        "_id": "e9db7a0"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 126,
+                                        "_id": "f722477"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 156,
+                                        "_id": "15a7ae1"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 146,
+                                        "_id": "880040d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 145,
+                                        "_id": "aac8606"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_1": [
+                                    {
+                                        "iq_column_chart_value_4_1": -100,
+                                        "_id": "2663180"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": -154,
+                                        "_id": "b070ba7"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 163,
+                                        "_id": "e53f46e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 123,
+                                        "_id": "ea6b157"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": 188,
+                                        "_id": "2eca184"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": -187,
+                                        "_id": "a7e03ac"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": -109,
+                                        "_id": "e2ebf6d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_1": -167,
+                                        "_id": "50d3be2"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_2": "Element 3",
+                                "iq_column_value_list_4_1_2": [
+                                    {
+                                        "iq_column_chart_value_4_2": 193,
+                                        "_id": "1ff31b5"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 148,
+                                        "_id": "6e06c24"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 123,
+                                        "_id": "b9d8cd9"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 182,
+                                        "_id": "0bbdd5b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 184,
+                                        "_id": "9e6a205"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 184,
+                                        "_id": "e02320e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 194,
+                                        "_id": "08874ee"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 167,
+                                        "_id": "a4b1089"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_2": [
+                                    {
+                                        "iq_column_chart_value_4_2": 164,
+                                        "_id": "326e833"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": -144,
+                                        "_id": "e054e0e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": -91,
+                                        "_id": "98bed89"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": -123,
+                                        "_id": "a7cf67b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 145,
+                                        "_id": "afda932"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 92,
+                                        "_id": "a065dd5"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": -191,
+                                        "_id": "e227cdd"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_2": 8,
+                                        "_id": "c738450"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_3": "Element 4",
+                                "iq_column_value_list_4_1_3": [
+                                    {
+                                        "iq_column_chart_value_4_3": 119,
+                                        "_id": "d84c79f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 193,
+                                        "_id": "3329b45"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 127,
+                                        "_id": "797fed2"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 102,
+                                        "_id": "8f43018"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 107,
+                                        "_id": "2a0afbb"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 147,
+                                        "_id": "26cbc10"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 134,
+                                        "_id": "677ff4d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 169,
+                                        "_id": "3d858ef"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_3": [
+                                    {
+                                        "iq_column_chart_value_4_3": 106,
+                                        "_id": "ad7fda0"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 37,
+                                        "_id": "813bb43"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 87,
+                                        "_id": "03f4525"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": -67,
+                                        "_id": "fda3a4f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 106,
+                                        "_id": "070239f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": -5,
+                                        "_id": "3c54438"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": -134,
+                                        "_id": "496b0ae"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_3": 152,
+                                        "_id": "d0ce654"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_4": "Element 5",
+                                "iq_column_value_list_4_1_4": [
+                                    {
+                                        "iq_column_chart_value_4_4": 131,
+                                        "_id": "8699463"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 145,
+                                        "_id": "11148c8"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 172,
+                                        "_id": "6a2d2df"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 160,
+                                        "_id": "91222dd"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 194,
+                                        "_id": "a74546b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 185,
+                                        "_id": "b614cf0"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 156,
+                                        "_id": "f80c93d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 141,
+                                        "_id": "43a33c1"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_4": [
+                                    {
+                                        "iq_column_chart_value_4_4": -106,
+                                        "_id": "2c96832"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 90,
+                                        "_id": "fecec72"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": -118,
+                                        "_id": "b881ccd"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": -50,
+                                        "_id": "2c8640d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": -37,
+                                        "_id": "71a745c"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 18,
+                                        "_id": "799b8c4"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": -132,
+                                        "_id": "4740f89"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_4": 181,
+                                        "_id": "7c120c8"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_5": "Element 6",
+                                "iq_column_value_list_4_1_5": [
+                                    {
+                                        "iq_column_chart_value_4_5": 198,
+                                        "_id": "9f83914"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 148,
+                                        "_id": "6720c90"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 193,
+                                        "_id": "9857a2c"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 153,
+                                        "_id": "aae8d6a"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 110,
+                                        "_id": "370bb40"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 136,
+                                        "_id": "8646163"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 167,
+                                        "_id": "5980b5d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 114,
+                                        "_id": "71236b5"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_5": [
+                                    {
+                                        "iq_column_chart_value_4_5": -144,
+                                        "_id": "d0683ff"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 60,
+                                        "_id": "c71d9ec"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": -50,
+                                        "_id": "85365b2"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": -43,
+                                        "_id": "bd6fb3f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": -155,
+                                        "_id": "06e6d27"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 3,
+                                        "_id": "a67e463"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": 19,
+                                        "_id": "d3c018e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_5": -58,
+                                        "_id": "6f404c3"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_6": "Element 7",
+                                "iq_column_value_list_4_1_6": [
+                                    {
+                                        "iq_column_chart_value_4_6": 189,
+                                        "_id": "4bda95e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 182,
+                                        "_id": "91fbcf6"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 147,
+                                        "_id": "229d79f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 158,
+                                        "_id": "e6f642a"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 137,
+                                        "_id": "69b2675"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 107,
+                                        "_id": "0413af1"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 119,
+                                        "_id": "e7bd9f1"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 182,
+                                        "_id": "048765c"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_6": [
+                                    {
+                                        "iq_column_chart_value_4_6": -155,
+                                        "_id": "086cf3d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 133,
+                                        "_id": "baf5896"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 8,
+                                        "_id": "1654854"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": -65,
+                                        "_id": "1a80e96"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 148,
+                                        "_id": "51edf0b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 170,
+                                        "_id": "17f336b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 152,
+                                        "_id": "8e2b119"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_6": 140,
+                                        "_id": "84920e3"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_7": "Element 8",
+                                "iq_column_value_list_4_1_7": [
+                                    {
+                                        "iq_column_chart_value_4_7": 186,
+                                        "_id": "ca893f8"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 198,
+                                        "_id": "0ae7108"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 106,
+                                        "_id": "7bb8c17"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 124,
+                                        "_id": "0bb56af"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 137,
+                                        "_id": "2f7612b"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 155,
+                                        "_id": "77c3e2a"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 102,
+                                        "_id": "7fc93e4"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 157,
+                                        "_id": "9227293"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_7": [
+                                    {
+                                        "iq_column_chart_value_4_7": 78,
+                                        "_id": "e036db2"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": -8,
+                                        "_id": "0bc0aed"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 5,
+                                        "_id": "880f88c"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 159,
+                                        "_id": "2ecd135"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 130,
+                                        "_id": "2c586b1"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": -114,
+                                        "_id": "5379a0a"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 32,
+                                        "_id": "12c336d"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_7": 110,
+                                        "_id": "e02fa34"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_8": "Element 9",
+                                "iq_column_value_list_4_1_8": [
+                                    {
+                                        "iq_column_chart_value_4_8": 156,
+                                        "_id": "fa3aba1"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 100,
+                                        "_id": "cafc19a"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 175,
+                                        "_id": "e9aadbb"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 111,
+                                        "_id": "d24045e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 101,
+                                        "_id": "906cd95"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 191,
+                                        "_id": "ab65cbd"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 170,
+                                        "_id": "2238903"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 194,
+                                        "_id": "512335b"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_8": [
+                                    {
+                                        "iq_column_chart_value_4_8": 122,
+                                        "_id": "b17a098"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 74,
+                                        "_id": "4e613f5"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": -72,
+                                        "_id": "03c919f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 104,
+                                        "_id": "25a81cd"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 130,
+                                        "_id": "e4f7dd8"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": 5,
+                                        "_id": "1add3db"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": -79,
+                                        "_id": "7f6a270"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_8": -120,
+                                        "_id": "3fef14b"
+                                    }
+                                ],
+                                "iq_column_chart_title_4_9": "Element 10",
+                                "iq_column_value_list_4_1_9": [
+                                    {
+                                        "iq_column_chart_value_4_9": 103,
+                                        "_id": "ed1c4b5"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 168,
+                                        "_id": "a8bb70f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 147,
+                                        "_id": "5d38bc3"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 191,
+                                        "_id": "c729866"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 118,
+                                        "_id": "613e09f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 133,
+                                        "_id": "1ad9337"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 112,
+                                        "_id": "1ee6aec"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 171,
+                                        "_id": "649426c"
+                                    }
+                                ],
+                                "iq_column_value_list_4_2_9": [
+                                    {
+                                        "iq_column_chart_value_4_9": 60,
+                                        "_id": "8ba0abe"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": -80,
+                                        "_id": "81e0aed"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 134,
+                                        "_id": "719450f"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": -123,
+                                        "_id": "3ad70b9"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": -13,
+                                        "_id": "8018f19"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": 83,
+                                        "_id": "e41ceab"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": -43,
+                                        "_id": "16f132e"
+                                    },
+                                    {
+                                        "iq_column_chart_value_4_9": -88,
+                                        "_id": "2b181bb"
+                                    }
+                                ],
+                                "iq_column_chart_font_family": "Raleway",
+                                "__globals__": {
+                                    "iq_column_chart_gradient_1_0": ""
+                                },
+                                "iq_column_chart_gradient_1_0": "#21397D"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "column_chart",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "7188a5d7",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "30",
+                            "bottom": "30",
+                            "left": "30",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6dadb9dc",
+                            "settings": {
+                                "premium_dual_header_first_header_text": "Boston School",
+                                "premium_dual_header_second_header_text": "Research",
+                                "premium_dual_header_position": "block",
+                                "premium_dual_header_text_align": "left",
+                                "background_text": "Awesome Title",
+                                "__globals__": {
+                                    "first_header_typography_typography": "globals\/typography?id=d322120",
+                                    "premium_dual_header_first_color": "globals\/colors?id=5d7994e",
+                                    "premium_dual_header_second_color": "globals\/colors?id=c6bb72d",
+                                    "second_header_typography_typography": "globals\/typography?id=d322120"
+                                },
+                                "premium_dual_header_first_header_tag": "h3",
+                                "premium_dual_header_first_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "5",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "premium_dual_header_first_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-addon-dual-header",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4220d8f1",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc consequat interdum varius sit. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Dictum varius duis at consectetur lorem donec massa sapien faucibus. Leo integer malesuada nunc vel risus.\u00a0<\/p>",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=9572114"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "77b43010",
+                            "settings": {
+                                "button_type": "info",
+                                "text": "Read More",
+                                "text_padding": {
+                                    "unit": "px",
+                                    "top": "12",
+                                    "right": "40",
+                                    "bottom": "12",
+                                    "left": "40",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "background_color": "globals\/colors?id=c6bb72d",
+                                    "button_text_color": "globals\/colors?id=f665cfc",
+                                    "typography_typography": "globals\/typography?id=ef8c6a5"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "version": "0.4",
+    "title": "Boston &#8211; News Tabs Section",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-other",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "75b7afdc",
+            "settings": [],
+            "elements": [
+                {
+                    "id": "327096a7",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "22cf8449",
+                            "settings": {
+                                "classic_posts_per_page": 3,
+                                "classic_thumbnail_size_size": "full",
+                                "classic_item_ratio": {
+                                    "unit": "px",
+                                    "size": 0.54000000000000003552713678800500929355621337890625,
+                                    "sizes": []
+                                },
+                                "classic_excerpt_length": 19,
+                                "classic_meta_data": [
+                                    "date"
+                                ],
+                                "classic_meta_separator": "\/",
+                                "classic_read_more_text": "Read More",
+                                "cards_meta_separator": "\u2022",
+                                "cards_read_more_text": "Read More \u00bb",
+                                "full_content_meta_separator": "\/\/\/",
+                                "classic_title_spacing": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "classic_meta_spacing": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "classic_excerpt_spacing": {
+                                    "unit": "px",
+                                    "size": 29,
+                                    "sizes": []
+                                },
+                                "pagination_page_limit": "5",
+                                "pagination_prev_label": "&laquo; Previous",
+                                "pagination_next_label": "Next &raquo;",
+                                "__globals__": {
+                                    "classic_title_color": "globals\/colors?id=f665cfc",
+                                    "classic_title_typography_typography": "globals\/typography?id=d322120",
+                                    "classic_meta_color": "globals\/colors?id=f665cfc",
+                                    "classic_meta_separator_color": "globals\/colors?id=text",
+                                    "classic_meta_typography_typography": "globals\/typography?id=0e5bd6f",
+                                    "classic_excerpt_color": "globals\/colors?id=f665cfc",
+                                    "classic_excerpt_typography_typography": "globals\/typography?id=f36dc43",
+                                    "classic_read_more_color": "globals\/colors?id=c6bb72d",
+                                    "classic_read_more_typography_typography": "globals\/typography?id=723c228"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "posts",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "eael_ext_toc_title": "Table of Contents",
+        "template": "elementor_header_footer"
+    }
+}

@@ -1,0 +1,1407 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Educalar - Homeschooling Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bimberonline.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Blog",
+            "screenshot": "screenshots\/archive-blog.jpg",
+            "source": "templates\/archive-blog.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/?elementor_library=archive-blog",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/?elementor_library=404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Popup",
+            "screenshot": "screenshots\/popup.jpg",
+            "source": "templates\/popup.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/?elementor_library=popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/singular\/page\/727"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Page #727."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Courses",
+            "screenshot": "screenshots\/single-courses.jpg",
+            "source": "templates\/single-courses.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/single-courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Testimonial",
+            "screenshot": "screenshots\/testimonial.jpg",
+            "source": "templates\/testimonial.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/testimonial\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Pricing Plans",
+            "screenshot": "screenshots\/pricing-plans.jpg",
+            "source": "templates\/pricing-plans.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/pricing-plans\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Faq",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "How It Works",
+            "screenshot": "screenshots\/how-it-works.jpg",
+            "source": "templates\/how-it-works.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/how-it-works\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/bimberonline.com\/educalar\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.10.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.10.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "im-image-section-01-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/im-image-section-01-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 64915,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "img-hero-03-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-hero-03-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 179531,
+            "dimensions": [
+                633,
+                811
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-handsome-student-listening-to-music-isolated-LMT5KBV"
+        },
+        {
+            "filename": "img-icon-v-5-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-5-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 9387,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-icon-v-6-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-6-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 4809,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-icon-v-3-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-3-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6615,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-icon-v-7-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-7-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 6406,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "online-learning-using-laptop-teacher-and-boy-2021-09-15-18-33-56-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/online-learning-using-laptop-teacher-and-boy-2021-09-15-18-33-56-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 158795,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-learning-using-laptop-teacher-and-boy-2TUTJEF"
+        },
+        {
+            "filename": "im-image-section-08-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/im-image-section-08-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 90619,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "im-image-section-02-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/im-image-section-02-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 42609,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "im-image-section-07-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/im-image-section-07-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 100095,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "img-hero-02-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-hero-02-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 206542,
+            "dimensions": [
+                633,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/beautiful-student-holding-book-and-looking-at-came-98CT44F"
+        },
+        {
+            "filename": "boy-in-headphone-during-homeschooling-2021-08-31-22-23-55-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/boy-in-headphone-during-homeschooling-2021-08-31-22-23-55-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 121600,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/boy-in-headphone-during-homeschooling-FPAVQSV"
+        },
+        {
+            "filename": "cute-latin-school-boy-looking-thoughtful-talking-2021-12-27-21-39-50-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/cute-latin-school-boy-looking-thoughtful-talking-2021-12-27-21-39-50-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 173551,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cute-latin-school-boy-looking-thoughtful-talking-t-2FU28UC"
+        },
+        {
+            "filename": "home-schooling-2021-08-26-15-34-43-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/home-schooling-2021-08-26-15-34-43-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 175656,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/home-schooling-T2QGHL9"
+        },
+        {
+            "filename": "online-education-homeschooling-distant-learning-2021-09-19-19-08-10-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/online-education-homeschooling-distant-learning-2021-09-19-19-08-10-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 149762,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-education-homeschooling-distant-learning-st-MR8RJYJ"
+        },
+        {
+            "filename": "family-in-home-2021-12-27-17-12-44-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/family-in-home-2021-12-27-17-12-44-utc-min-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/popup.json",
+                    "name": "Popup"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 185120,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-in-home-WDG2YSY"
+        },
+        {
+            "filename": "img-icon-2-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-2-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 4861,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-3-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-3-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3936,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "online-education-homeschooling-school-boy-havin-2021-10-22-18-06-18-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/online-education-homeschooling-school-boy-havin-2021-10-22-18-06-18-utc-min-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 128712,
+            "dimensions": [
+                1500,
+                998
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-education-homeschooling-school-boy-having-o-5NPNXGV"
+        },
+        {
+            "filename": "img-icon-4-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-4-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3363,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-7-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-7-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2396,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-6-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-6-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3554,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-5-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-5-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 4525,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "im-image-section-03-v2.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/im-image-section-03-v2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 75907,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collection-of-different-joyful-millennials-portrai-C7RWEU3"
+        },
+        {
+            "filename": "online-school-technology-family-concept-happy-p-2022-01-18-23-34-19-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/online-school-technology-family-concept-happy-p-2022-01-18-23-34-19-utc-min-800x500.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                }
+            ],
+            "filesize": 182360,
+            "dimensions": [
+                1500,
+                937
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/online-school-technology-family-concept-happy-pare-G78G4J2"
+        },
+        {
+            "filename": "african-american-father-helping-son-studying-homew-2021-08-28-20-17-23-utc.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/african-american-father-helping-son-studying-homew-2021-08-28-20-17-23-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/testimonial.json",
+                    "name": "Testimonial"
+                }
+            ],
+            "filesize": 308311,
+            "dimensions": [
+                1500,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/african-american-father-helping-son-studying-homew-EZB5S76"
+        },
+        {
+            "filename": "happy-asian-businesswoman-in-headset-speaking-by-c-2021-08-30-05-01-20-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/happy-asian-businesswoman-in-headset-speaking-by-c-2021-08-30-05-01-20-utc-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 57204,
+            "dimensions": [
+                533,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-asian-businesswoman-in-headset-speaking-by-c-V5FTUV2"
+        },
+        {
+            "filename": "dispatcher-2021-08-31-11-04-39-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/dispatcher-2021-08-31-11-04-39-utc-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 65318,
+            "dimensions": [
+                533,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/dispatcher-SZ4M3AF"
+        },
+        {
+            "filename": "woman-in-the-office-2022-02-07-23-25-30-utc-min.jpg",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/woman-in-the-office-2022-02-07-23-25-30-utc-min.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 105373,
+            "dimensions": [
+                533,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/woman-in-the-office-79FYT2J"
+        },
+        {
+            "filename": "img-icon-v-9-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-9-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 6921,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-icon-v-1-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-1-min.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 9977,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-hero-04-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2021\/12\/img-hero-04-min.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 194123,
+            "dimensions": [
+                528,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cute-career-consultant-standing-over-blue-backgrou-D6LY3Z2"
+        },
+        {
+            "filename": "img-icon-v-2-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-2-min.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 8085,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-icon-v-8-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-v-8-min.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 7658,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/greenboard-back-online-school-with-handrawn-elements_10027785.htm#&position=3&from_view=collections"
+        },
+        {
+            "filename": "img-icon-1-min.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-1-min.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4542,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-header-01.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-header-01.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 1137,
+            "dimensions": [
+                88,
+                76
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/20-communication-icons-27A2KK"
+        },
+        {
+            "filename": "img-icon-10.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-10.png",
+            "templates": [
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 11327,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-9.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-9.png",
+            "templates": [
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "Faq"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 5850,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "img-icon-8.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-8.png",
+            "templates": [
+                {
+                    "source": "templates\/single-courses.json",
+                    "name": "Single Courses"
+                },
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 6265,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        },
+        {
+            "filename": "icon-pricing-3.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/icon-pricing-3.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 5186,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-learning-soft-color-icons-U7AYA8F"
+        },
+        {
+            "filename": "icon-pricing-1.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/icon-pricing-1.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 5333,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-learning-soft-color-icons-U7AYA8F"
+        },
+        {
+            "filename": "icon-pricing-2.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/icon-pricing-2.png",
+            "templates": [
+                {
+                    "source": "templates\/pricing-plans.json",
+                    "name": "Pricing Plans"
+                }
+            ],
+            "filesize": 4105,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/online-learning-soft-color-icons-U7AYA8F"
+        },
+        {
+            "filename": "icon-contact-3.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/icon-contact-3.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 8083,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/support-ui-icons-XA7MADR"
+        },
+        {
+            "filename": "icon-contact-2.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/icon-contact-2.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9659,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/support-ui-icons-XA7MADR"
+        },
+        {
+            "filename": "icon-contact-1.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/icon-contact-1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 9702,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/support-ui-icons-XA7MADR"
+        },
+        {
+            "filename": "img-icon-11.png",
+            "thumbnail_url": "https:\/\/bimberonline.com\/educalar\/wp-content\/uploads\/sites\/127\/2022\/08\/img-icon-11.png",
+            "templates": [
+                {
+                    "source": "templates\/how-it-works.json",
+                    "name": "How It Works"
+                }
+            ],
+            "filesize": 5815,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/education-line-icons-M8UCR2C"
+        }
+    ]
+}

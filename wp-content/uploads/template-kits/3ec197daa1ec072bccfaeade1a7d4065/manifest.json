@@ -1,0 +1,699 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Boston - School and University Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Boston - Event Template Section",
+            "screenshot": "screenshots\/boston-event-template-section.jpg",
+            "source": "templates\/boston-event-template-section.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/boston-event-template-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Boston - News Tabs Section",
+            "screenshot": "screenshots\/boston-news-tabs-section.jpg",
+            "source": "templates\/boston-news-tabs-section.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/boston-news-tabs-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Page",
+            "screenshot": "screenshots\/about-page.jpg",
+            "source": "templates\/about-page.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Boston - Graphic Tabs Section",
+            "screenshot": "screenshots\/boston-graphic-tabs-section.jpg",
+            "source": "templates\/boston-graphic-tabs-section.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/boston-graphic-tabs-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Academic Page",
+            "screenshot": "screenshots\/academic-page.jpg",
+            "source": "templates\/academic-page.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/academic-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Page",
+            "screenshot": "screenshots\/event-page.jpg",
+            "source": "templates\/event-page.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/event-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive Post",
+            "screenshot": "screenshots\/archive-post.jpg",
+            "source": "templates\/archive-post.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/?elementor_library=archive-post",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive\/post_archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: Posts Archive."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Page",
+            "screenshot": "screenshots\/contact-page.jpg",
+            "source": "templates\/contact-page.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Error 404 Page",
+            "screenshot": "screenshots\/error-404-page.jpg",
+            "source": "templates\/error-404-page.json",
+            "preview_url": "http:\/\/webdemo5.risegraph.net\/?elementor_library=error-404-page",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.4",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.8.2",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Graphina - Elementor Charts and Graphs",
+            "version": "1.5.7",
+            "file": "graphina-elementor-charts-and-graphs\/graphina-charts-for-elementor.php",
+            "author": "Iqonic Design"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.4.3",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "4.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 170402,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/students-sharing-notes-RNE6JKA"
+        },
+        {
+            "filename": "5.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/boston-event-template-section.json",
+                    "name": "Boston - Event Template Section"
+                },
+                {
+                    "source": "templates\/event-page.json",
+                    "name": "Event Page"
+                }
+            ],
+            "filesize": 153738,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-mature-male-students-or-teachers-walking-throu-JVV96KS"
+        },
+        {
+            "filename": "6.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/boston-event-template-section.json",
+                    "name": "Boston - Event Template Section"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/event-page.json",
+                    "name": "Event Page"
+                }
+            ],
+            "filesize": 156945,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-mature-students-or-teachers-walking-through-co-UK2DWB9"
+        },
+        {
+            "filename": "1.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 123551,
+            "dimensions": [
+                1920,
+                1278
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/arab-student-man-at-library-KFRSC4J"
+        },
+        {
+            "filename": "2.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 114129,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/muslim-girl-student-drinking-coffee-on-street-befo-KXF3NHZ"
+        },
+        {
+            "filename": "3.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 180252,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-interracial-students-resting-in-student-d-XNJQ2CC"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/14.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 91389,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-students-RZ8JRQD"
+        },
+        {
+            "filename": "7-4.jpeg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/7-4-800x450.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 197170,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/modern-university-buildings-wooden-beams-projectin-242A2MC"
+        },
+        {
+            "filename": "play-button-white.png",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/play-button-white.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/event-page.json",
+                    "name": "Event Page"
+                }
+            ],
+            "filesize": 8204,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/play-button_109700?term=play&page=1&position=36&page=1&position=36&related_id=109700&origin=search"
+        },
+        {
+            "filename": "9.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/9.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 134973,
+            "dimensions": [
+                800,
+                1296
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/basketball-jump-PZ4FX83"
+        },
+        {
+            "filename": "10.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/10.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 182502,
+            "dimensions": [
+                700,
+                1049
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/athletic-soccer-player-kicking-ball-on-soccer-pitc-7YY7VDY"
+        },
+        {
+            "filename": "11.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/11.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 57357,
+            "dimensions": [
+                800,
+                1199
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/football-player-playing-football-SKKHV23"
+        },
+        {
+            "filename": "13.png",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/13.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 5644,
+            "dimensions": [
+                512,
+                512
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/play-button_109700?term=play&page=1&position=36&page=1&position=36&related_id=109700&origin=search"
+        },
+        {
+            "filename": "12.png",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/12.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 4416,
+            "dimensions": [
+                512,
+                428
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/mortarboard_1940690"
+        },
+        {
+            "filename": "15.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/15.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                },
+                {
+                    "source": "templates\/error-404-page.json",
+                    "name": "Error 404 Page"
+                }
+            ],
+            "filesize": 115794,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-college-student-in-busy-c-GL7GYHD"
+        },
+        {
+            "filename": "24.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/24.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-page.json",
+                    "name": "About Page"
+                }
+            ],
+            "filesize": 174235,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-mature-male-teacher-or-student-with-di-WPJ9K3M"
+        },
+        {
+            "filename": "18.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/18.jpg",
+            "templates": [
+                {
+                    "source": "templates\/academic-page.json",
+                    "name": "Academic Page"
+                }
+            ],
+            "filesize": 112264,
+            "dimensions": [
+                1920,
+                1183
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-college-student-in-busy-c-6C6QMCN"
+        },
+        {
+            "filename": "20.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/20.jpg",
+            "templates": [
+                {
+                    "source": "templates\/archive-post.json",
+                    "name": "Archive Post"
+                }
+            ],
+            "filesize": 139561,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-female-college-student-talking-into-mobile-VASGVT4"
+        },
+        {
+            "filename": "21.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/21.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 155295,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-smiling-female-college-student-friends-checkin-JQE4LM9"
+        },
+        {
+            "filename": "22.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/22.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 21686,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-college-student-in-busy-c-EUZ3LMR"
+        },
+        {
+            "filename": "17.jpg",
+            "thumbnail_url": "http:\/\/webdemo5.risegraph.net\/wp-content\/uploads\/2021\/07\/17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 112878,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-smiling-male-college-student-in-busy-c-EUZ3LMR"
+        }
+    ]
+}
